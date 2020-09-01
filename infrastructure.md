@@ -1,4 +1,4 @@
-## Implement and Monitor an Azure Infrastructure (50-55%)
+# Implement and Monitor an Azure Infrastructure (50-55%)
 
 ### Implement cloud infrastructure monitoring
 
@@ -80,3 +80,11 @@
 - configure and manage password sync and password writeback
 - configure single sign-on
 - use Azure AD Connect Health
+
+## Preperation Material
+
+- 
+- 
+- 
+
+## Preperation Questions

@@ -1,4 +1,4 @@
-## Implement Solutions for Apps (10-15%)
+# Implement Solutions for Apps (10-15%)
 
 ### Implement an application infrastructure
 
@@ -17,3 +17,11 @@
 - configure Azure Kubernetes Service
 - publish and automate image deployment to the Azure Container Registry
 - publish a solution on an Azure Container Instance
+
+## Preperation Material
+
+- 
+- 
+- 
+
+## Preperation Questions

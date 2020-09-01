@@ -1,4 +1,4 @@
-## Implement Management and Security Solutions (25-30%)
+# Implement Management and Security Solutions (25-30%)
 
 ### Manage workloads in Azure
 
@@ -39,3 +39,11 @@
 - implement and configure KeyVault
 - implement and configure Azure AD Managed Identities
 - register and manage applications in Azure AD
+
+## Preperation Material
+
+- 
+- 
+- 
+
+## Preperation Questions

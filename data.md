@@ -1,4 +1,4 @@
-## Implement and Manage Data Platforms (10-15%)
+# Implement and Manage Data Platforms (10-15%)
 
 ### Implement NoSQL databases
 
@@ -12,3 +12,11 @@
 - implement Azure SQL Database managed instances
 - configure HA for an Azure SQL database
 - publish an Azure SQL database
+
+## Preperation Material
+
+- 
+- 
+- 
+
+## Preperation Questions
